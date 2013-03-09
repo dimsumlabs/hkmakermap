@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>HK/SZ DIY Computer, Electronics (Hackjam/DSL) - Google Maps</name>
+  <description><![CDATA[Legend:
+Green Pin = Important Places
+Red Pin = Major Transport
+Blue Pin = All other Misc
+
+Collaborated map by members of Hackjam/DSL/Dimsumlabs hackerspace HK.
+(originally by Martin Dengler)
+
+Places in/related to Shenzhen (china), "north of the border", are prefixed with "SZ: ".]]></description>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style32">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style31">
+    <LineStyle>
+      <color>26000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40FF0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="style28">
+    <LineStyle>
+      <color>26000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>26FF0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="style10">
+    <LineStyle>
+      <color>26000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>26FF0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style33">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style39">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style35">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <LineStyle>
+      <color>40000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>73FF0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Wan Chai Computer Centre</name>
+    <Snippet>The default place to go, but quite normal shops and mostly retail target market.</Snippet>
+    <description><![CDATA[<div dir="ltr">The default place to go, but quite normal shops and mostly retail target market.</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>114.173134,22.277424,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>298 Hennesy Road</name>
+    <Snippet>Less retail than WCC.Upstairs in the back is a great hardware store (multimeters</Snippet>
+    <description><![CDATA[<div dir="ltr">Less retail than WCC.<br>Upstairs in the back is a great hardware store (multimeters, buttons, etc.)</div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>114.177391,22.278049,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oriental 188 Shopping Centre</name>
+    <Snippet>All software, mostly console games.</Snippet>
+    <description><![CDATA[<div dir="ltr">All software, mostly console games.</div>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>114.177643,22.277376,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mong Kok Computer Centre</name>
+    <Snippet>Good, but Sham Shui Po Computer Centre is better and just a few more stops on th</Snippet>
+    <description><![CDATA[<div dir="ltr">Good, but Sham Shui Po Computer Centre is better and just a few more stops on the MTR.<br><br>Matti: IMO, Shops are a bit larger and less dodgy than some in Golden Computer Centre (Sham Shui Po). Whole place is less cramped. If you're looking for game consoles or any kind of game accessories, or computer components like mainboards, chassis etc. then Golden is the place to go, but for stuff like cellphone trinkets or mainstream computer accessories like wifi routers, new laptops, A/V cables, then Mong Kok can be a much cheaper option than Fortress or Broadway. </div>]]></description>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>114.171036,22.318459,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pioneer Centre Shopping Arcade</name>
+    <description><![CDATA[<div dir="ltr">Small computer, phone, tablet market on second (?) floor. Phones and tablet ok price, usb-cables etc are overpriced.</div>]]></description>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>114.169067,22.322445,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Components - Tell How Tech</name>
+    <description><![CDATA[<div dir="ltr">The one in the Wonder building is called Tell How Technology and have a web site where you can check out their inventory. <a href="http://www.tellhow-tech.com" target="_blank">http://www.tellhow-tech.com</a>. Have arduino boards and shields, and few other DIY stuff, tiny shop. </div>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>114.161674,22.331848,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Components - Arduino Shop</name>
+    <description><![CDATA[<div dir="ltr">The other shop is in the New Capital Computer Plaza. 85-95 Un Chau Street. Go up two floors. It's in the back of the big mall, have reasonable much Arduino boards and shields. The guy works on his own electronics installations in the shop.</div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>114.162331,22.332842,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Apliu Street Market</name>
+    <description><![CDATA[<div dir="ltr">Sham Shui Po, Hong Kong, Amazing outdoor gadget market for simple cheap stuff, LED strips, lamps, connectors, rare earth magnets, power tools etc. This street, behind the street market have few stores with pure electronics components, stores for spycams, snake soup, and motors, LEDs.<br><br>&nbsp;</div><div dir="ltr"><img src="http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=22.330307,114.161841&amp;thumb=0"></div>]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            114.160759,22.331327,0.000000
+            114.160583,22.331129,0.000000
+            114.161293,22.330587,0.000000
+            114.161079,22.330343,0.000000
+            114.161270,22.330200,0.000000
+            114.161499,22.330446,0.000000
+            114.162170,22.329929,0.000000
+            114.161942,22.329670,0.000000
+            114.162132,22.329519,0.000000
+            114.162361,22.329781,0.000000
+            114.163078,22.329229,0.000000
+            114.163231,22.329399,0.000000
+            114.160759,22.331327,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Golden Computer Centre/Arcade</name>
+    <description><![CDATA[<div dir="ltr">The big daddy of HK computer centres. Busy, always full of people, often cheaper than other places. They have most things that can be bought in HK in DIY computers, electronics.<br><br>Matti: The signs might say Golden Computer Centre, Golden Shopping Arcade or Golden something else. Bottom line is that the whole block is riddled with electronics stores outside and in. There are two main floors throughout the building and entries on every corner. Games and game consoles, computer and mobile accessories, computer component stores and books. et cetera, et cetera</div>]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            114.161880,22.332582,0.000000
+            114.162613,22.332050,0.000000
+            114.162613,22.331980,0.000000
+            114.162323,22.331659,0.000000
+            114.161591,22.332199,0.000000
+            114.161591,22.332260,0.000000
+            114.161880,22.332582,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>New Capital Computer Plaza</name>
+    <description><![CDATA[<div dir="ltr">Less retail than any other computer centre. Mostly and amazing second hand (outdated) computer, laptops market. Some shops do repair. There are also, some older rack servers for sale.</div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            114.162376,22.332687,0.000000
+            114.162491,22.332809,0.000000
+            114.162346,22.332926,0.000000
+            114.162231,22.332800,0.000000
+            114.162376,22.332687,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>SZ: Seeed Studio Bazaar</name>
+    <description><![CDATA[<font face="arial" size="2">Open Hardware Facilitator<br><a href="http://www.seeedstudio.com/" target="_blank">http://www.seeedstudio.com/</a>&nbsp;Lot's of arduinos and shields. If you have a hardware project with potential they can produce it and sell it.</font>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>113.949112,22.584068,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SZ: Seg Electronics Market</name>
+    <description><![CDATA[<div dir="ltr">Actually not just one building but the whole area is packed with electronics shops, however <a href="http://en.wikipedia.org/wiki/SEG_Plaza" target="_blank">http://en.wikipedia.org/wiki/SEG_Plaza</a> is a good place to start. <span style="font-size:10pt">SEG Plaza is a huge scraper where the lowest 8 floors are all electronics. The first floors are more chaotic with small stalls happily sell individual components. The higher you go the more you encounter the kind of shops where you would go to buy the entire stock for your own shop back in HK. If you don't want to get refused from some of those places but still make a bargain on individual pieces, dress proper, bring a stack of business cards and tell the shop keeper something like "my engineers absolutely MUST try this out this USB microscope, how much do you charge for a sample?"</span></div>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>114.087227,22.540979,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>WECL Megastore </name>
+    <description><![CDATA[<div dir="ltr">Carry a wide range of electronics components and gadgets.<br>&nbsp;</div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>114.160568,22.330545,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>華輝無綫電行有限公司門市 Welfare Electronic Component Ltd</name>
+    <description><![CDATA[<div dir="ltr">Carry a wide range of electronics components and gadgets.</div>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>114.143143,22.344360,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SZ: Shenzhen LED International Trading</name>
+    <description><![CDATA[<div dir="ltr">Like the rest of this street, this building actually houses about eight floors of electronics, from parts to printers. What's nice about this one is that it is slightly better managed, slightly cleaner, better people flow (booths more spread out).  Overall a tad better organized that other places.  If you are looking for LED light bulbs, this is the place to go.</div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>114.086563,22.542576,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SZ: Huanqiang Bei Road</name>
+    <description><![CDATA[<div dir="ltr">This entire road is crammed packed with electronics markets. You should walk down and back to visit the different stalls, and don't be afraid to take an escalator upstairs to find some real gems now and then.</div>]]></description>
+    <styleUrl>#style29</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        114.086685,22.540424,0.000000
+        114.086632,22.544397,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>SZ: Gadget Market</name>
+    <description><![CDATA[<div dir="ltr">Afraid I can't name this place, but refer to it as the 'Gadget Market'--aka the land of solar powered cockroaches. It's across (diagonally) from the Shenzhen LED and is one floor of remote control helicopters, health care devices, kids toys, and other 'gadgets'. </div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>114.086838,22.543060,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SZ: Mobile Phone Market</name>
+    <description><![CDATA[<div dir="ltr">One of these markets in this area specializes in "used" mobile phones. Of course no one here really asks "where" the phone came from, so you occasionally see some gang-looking guys dropping off bags of mobiles and haggling over the price. You can also find "PIN Crackers" used to brute force attack Nokia, Samsung and other devices to break their lock codes, should your 'used' phone happen to still be locked.</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>114.086807,22.545582,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SZ: Lo Wu Crossing</name>
+    <description><![CDATA[<div dir="ltr">This is the more popular and slightly closer crossing for the markets in Huaqiang Road, but it can also be quite a bit more crowded at certain periods. This is also the place where &lt;some&gt; nationals can obtain what is known as a "Shenzhen 5-day visa" (note: USA citizens cannot get, along with many other countries). Best to check the current status or have a full China visa before arriving.</div>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>114.113144,22.528255,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SZ: Lok Ma Chau Crossing</name>
+    <description><![CDATA[<div dir="ltr">This is the Futian / Lok Ma Chau crossing. This is a modern facility which "usually" has fewer people crossing than Lo Wu.  To get to the gadget markets you do have to change subway trains once, unlike the Lo Wu subway which is a straight shot.</div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>114.065506,22.514420,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SZ: SIM Card dealers</name>
+    <description><![CDATA[<div dir="ltr">Just after you exit the Lo Wu station, you'll come 'outside' to the meet and greet area and on your left (11 o'clock) there will be a couple of SIM card dealers who will sell you pay as you go SIM cards. You can haggle on price as they sometimes sell what would be $200RMB for $250. They also try to sell you fake Viagra--if not for you "for your friends" they will say.</div>]]></description>
+    <styleUrl>#style33</styleUrl>
+    <Point>
+      <coordinates>114.112244,22.529800,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wellington Hardware Stores</name>
+    <description><![CDATA[<div dir="ltr">This street has several 'hardware' stores in the sense you can buy a hammer, a drill bit, a pack of screws and washers, some buckets, etc.  Not exactly high tech but occasionally you might be working on a project that needs something more old school.</div>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>114.154327,22.283279,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Windsor House Computer Markets</name>
+    <description><![CDATA[<div dir="ltr">A few stores on the upper floors here selling primarily finished goods such as printers, computers, cameras and accessories. </div>]]></description>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>114.186462,22.280458,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SZ: Huaqiang Road Subway - Exit A</name>
+    <description><![CDATA[<div dir="ltr">Exit A from the Huaqiang Road Subway station is the closest to the gadget markets (note: This station is NOT Huaqian NORTH, which is on a different subway line). </div>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>114.086151,22.540571,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SZ: Huaqiang Road</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style27</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        114.086609,22.546438,0.000000
+        114.086632,22.544373,0.000000
+        114.086632,22.544359,0.000000
+        114.086632,22.544363,0.000000
+        114.086632,22.544363,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Sincere Centre / Sing Tat</name>
+    <description><![CDATA[<div dir="ltr">The be-all, end-all of mobile phone markets in Hong Kong. This is where the grey market importers of iPhones and other devices reside, and you can sometimes even get products here a few days before they are released worldwide. On Argyle Street, use exit D2 from Mongkok MTR.</div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>114.170654,22.319710,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hung Hom Station</name>
+    <description><![CDATA[<div dir="ltr">This is the main departure point for trains to Shenzhen and the gadget markets up there. You can get RMB here before you travel. NOTE: It is slightly difficult to get to from Hong Kong Island, which is why many people will take the other MTR line to Kowloon Tong and transfer trains there.</div>]]></description>
+    <styleUrl>#style35</styleUrl>
+    <Point>
+      <coordinates>114.181549,22.303074,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Junk Street</name>
+    <description><![CDATA[If it's not raining, you might find some random junk (mostly old and used pans and cooking utensils) -&nbsp;<div><br>&nbsp;</div><div>but you might be able to find some retro home appliances for a quick hack.</div><div>(stereos)</div><div><br>&nbsp;</div><div>opposite the pots and pans is the retro console stand.</div><div>(found a used wii remote for $40)</div>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>114.161369,22.330502,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Second Hand/New Console Games</name>
+    <description><![CDATA[<div dir="ltr">THE BEST PLACE to find Xbox-Playstation games.<br><br>On the 1st Floor from the escalators, you'll find small stalls full of second hand games (think of digging for vinyl but for console games).<br><br>&nbsp;<br>They also have a 45 day return policy. If you complete the game - <br><br>You can resell it to them for a bit of change.<br><br>&nbsp;<br>Good place to sell your second hand games.</div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>114.170906,22.317327,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dim Sum Labs</name>
+    <description><![CDATA[14/F @ 100 Jervois Street.
+
+Hong Kong's First Hackerspace.
+
+HackJam Every Tuesday from 8pm.
+
+We also have regular crepe nights before HackJam @ La Creperie]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>114.151215,22.285126,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>CoCoon</name>
+    <description><![CDATA[<div dir="ltr">Premier Co-Working Space<br><br>Regular Venue to host Monthly Meetup for Codeaholics.<br><br>Also the Venue for Startup Weekend HK.</div>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            114.189812,22.286327,0.000000
+            114.190292,22.286634,0.000000
+            114.190697,22.286287,0.000000
+            114.190277,22.286024,0.000000
+            114.189812,22.286327,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Tak Lee Wholesale Centre &amp; Warehouse Ltd</name>
+    <description><![CDATA[<div dir="ltr">Mostly Home Hardware Parts. Price cheaper than others around the area. I bought a Current clamp at a store on Kwun Tong Road for HK$500-600, and realized I got ripped off, because for the exact same model, I can have it at Tak Lee for about HK$200</div>]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>114.223671,22.312086,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kwun Tong Plaza</name>
+    <description><![CDATA[<div dir="ltr">A few retail computer stores there for things such as RAM, Wireless Router, IP Camera, Hard Disk, PC, etc.</div>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>114.217468,22.314428,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hoeken&#39;s Cheap CNC Machine Sop</name>
+    <description><![CDATA[<div dir="ltr">Zach Hoeken referred to this Cheap CNC place - <br>300 RMB for a custom CNC-made table</div>]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>114.037666,22.522221,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>CoCoon</name>
+    <description><![CDATA[<div dir="ltr">Premier Co-Working Space<br><br>Regular Venue to host Monthly Meetup for Codeaholics.<br><br>Also the Venue for Startup Weekend HK.</div>]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>114.190353,22.286554,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>23号 Hua Fa Bei Lu</name>
+    <description><![CDATA[<span style="color:rgb(34, 34, 34);font-family:arial, sans-serif;background-color:rgb(255, 255, 255)">From Bunnie Huang: 23 Huafa Bei Lu, the "Mingtong</span><br style="color:rgb(34, 34, 34);font-family:arial, sans-serif;background-color:rgb(255, 255, 255)"><span style="color:rgb(34, 34, 34);font-family:arial, sans-serif;background-color:rgb(255, 255, 255)">Digital City". 3rd and 4th floor have the highest concentration of weird</span><br style="color:rgb(34, 34, 34);font-family:arial, sans-serif;background-color:rgb(255, 255, 255)"><span style="color:rgb(34, 34, 34);font-family:arial, sans-serif;background-color:rgb(255, 255, 255)">Shanzhai phones, but there are some gems on the other floors too.</span><br style="color:rgb(34, 34, 34);font-family:arial, sans-serif;background-color:rgb(255, 255, 255)"><br style="color:rgb(34, 34, 34);font-family:arial, sans-serif;background-color:rgb(255, 255, 255)"><span style="color:rgb(34, 34, 34);font-family:arial, sans-serif;background-color:rgb(255, 255, 255)">I just bought a phone that looks like a Mac mouse there. It's fully</span><br style="color:rgb(34, 34, 34);font-family:arial, sans-serif;background-color:rgb(255, 255, 255)"><span style="color:rgb(34, 34, 34);font-family:arial, sans-serif;background-color:rgb(255, 255, 255)">functional, you can use it as a mouse and it also makes phone calls. Weird.</span>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>114.089149,22.545233,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Happy Farmer</name>
+    <description><![CDATA[<div dir="ltr">In the middle of Flower Market there are several stores called 'Happy Farmer' that deal with organic and DIY agriculture. They have some very rudimentary hydroponic materials for those who are looking at 'hacking' food.</div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>114.171104,22.324612,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wing Lee Metal</name>
+    <description><![CDATA[<div dir="ltr">315 Reclamation Street.<br><br>Buy Aluminium stock here, but know exactly what you want (they don't have time to chat with you).  <br><br>Tell them the material spec (I've bought 5053 and 6061-T6), dimensions and number of pieces, but remember they sell raw stock, not finished pieces!</div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>114.168320,22.315878,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kowloon Bearings</name>
+    <description><![CDATA[<div dir="ltr">Sells all sorts of bearings</div>]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>114.167763,22.316225,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

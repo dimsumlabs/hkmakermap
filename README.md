@@ -48,7 +48,7 @@ Dependencies
 ============
 
 * curl
-
+* git
 
 
 

@@ -17,4 +17,6 @@ else
     mkdir -p "$MAP_DIR"
     MAP_FILE="$MAP_DIR/hkmakermap-$(date +%Y%m%d-%H%M%S).kml"
     curl -s "$KML_URL" > "$MAP_FILE"
+    git add -- "$MAP_FILE"
+    git commit -m "latest KML file" -- "$MAP_FILE"
 fi

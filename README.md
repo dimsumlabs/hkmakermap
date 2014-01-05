@@ -16,7 +16,7 @@ Backing it up
 Sometimes the map gets vandalised.  To combat that, run the
 map-backup.sh script every so often:
 
-  map-backup.sh
+`map-backup.sh`
 
 It will backup the map to the git repo (expected to be in the same
 directory as the script) with the name kml/hkmakermap-YYYYMMDD.kml .
@@ -24,7 +24,7 @@ directory as the script) with the name kml/hkmakermap-YYYYMMDD.kml .
 If you are allowed to push to git@github.com:dimsumlabs/hkmakermap.git
 , run:
 
-  git push git@github.com:dimsumlabs/hkmakermap.git
+`git push git@github.com:dimsumlabs/hkmakermap.git`
 
 You may have to pull first if your local repo was a bit out of date.
 
